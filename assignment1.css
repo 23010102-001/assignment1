@@ -1,0 +1,40 @@
+.logo {
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 10px;
+  color: white;
+  font-family: cursive;
+}
+
+
+
+.navbar
+{
+  color: black;
+  background-color: peachpuff;
+  bottom: 30;
+}
+
+
+
+.container {
+width: 80%;
+margin: 0 auto;
+background-color: peachpuff;
+padding: 0px;
+height: 500px;
+}
+
+.image-container {
+  position: relative;
+  background-color: peachpuff;
+}
+
+.text-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: white; /* Optional: Text color */
+  padding: 0px; /* Optional: Add padding around text */
+}
+
